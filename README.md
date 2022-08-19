@@ -1,10 +1,6 @@
-# MLflow Pipelines Regression Template
-This repository serves as a customizable template for the
-[MLflow Regression Pipeline](https://mlflow.org/docs/latest/pipelines.html#regression-pipeline)
-to develop high-quality production-ready regression models.
+# Proposing an optimul MLOps Workflow using MLFlow, DVC and Git
+This repository is part of my MSc. Dissertation @ Queen Mary University of London.
 
-Currently supported ML models are limited to scikit-learn and frameworks that
-integrate with scikit-learn, such as the ``XGBRegressor`` API from XGBoost.
 
 **Note**: [MLflow Pipelines](https://mlflow.org/docs/latest/pipelines.html)
 is an experimental feature in [MLflow](https://mlflow.org).
